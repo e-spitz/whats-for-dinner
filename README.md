@@ -1,23 +1,32 @@
 # What's for Dinner?
 
-## Overview
+## Summary
 
-What's for dinner? The ultimate question. You will be building an app that helps users choose a recipe and put together meals. 
+What's for dinner? The ultimate question. The decision making rollercoaster can be just *exhausting* when trying to figure out what in the world you are to eat! Don't you wish that someone...or _something_ could just do it for you?
 
-This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum. Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but any other code base should not be referenced. Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
+Well, your wish has been answered. The *_What's For Dinner?_* app has you covered! Select a random side dish, main dish, dessert, or even an *ENTIRE* meal and leave all of the thinking to us. It's as easy as pie! =)
 
-The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/dinner.html). 
+Time to get to cookin'! [here](https://e-spitz.github.io/whats-for-dinner/).
 
-## Learning Goals
+## How it works
 
-- Gain experience building an application that utilizes HTML, CSS and JavaScript
-- Write HTML and CSS to match a provided comp
-- Understand how to listen to and respond to user events
-- Individualize your programming skill set
+- Select a side, main, dessert, or entire meal button
+- Hit that _Let's Cook!_ button
+- And *SHABAM!* A random food or meal will display in the right cook pot box!
+- Not likin' what you see? Hit that _CLEAR_ button and select another option on the left
+- Run through the same process until you find something that suits your fancy...and your appetite!
 
-## Setup
+## Programs Implemented
 
-- Fork this project to your own Github account
-- Clone the repository to your local machine
-- `cd` into the project
-- Read this README thoroughly, then begin working!
+- HTML
+- CSS
+- JS
+
+## Future Features
+
+- We have got something sweet and delicious in the works for you! Soon you will be able to add your favorite recipe, save or delete favorited recipes, and a much more fun and rich design layout! We can't wait to give you a _taste_!
+
+## Contributors
+
+- Erica Spitz
+- Nathan Darrington 
