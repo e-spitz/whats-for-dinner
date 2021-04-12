@@ -47,7 +47,7 @@ h2 {
 }
 
 
-#lets-cook-form {
+.left-box {
   padding: 20px;
   width: 375px;
   background-color: rgba(225, 225, 225, .9);
@@ -106,25 +106,25 @@ ul {
   background-color: rgba(225, 225, 225, .9);
   font-family: 'Roboto', sans-serif;
   margin: 0;
-  padding: 10px 15px;
+  padding: 8px 25px;
   border-radius: 5px;
   border: 1px solid #95a5a6;
-  align-self: flex-end;
+  float: right;
 }
 
 .right-box > h1 {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 .right-box > section {
   margin-left: auto;
+  /* margin-top: auto; */
 }
-
 
 .meal-suggestion,
 .whole-meal {
   font-family: 'Roboto', sans-serif;
-  margin: 0 auto;
+  margin: 0;
   font-size: 20px;
   text-align: center;
 }

@@ -12,7 +12,7 @@ var dessertValue = document.querySelector('#dessert');
 var entireValue = document.querySelector('#entire-meal');
 
 //Sections
-var letsCookBox = document.querySelector('#lets-cook-form');
+var letsCookBox = document.querySelector('.left-box');
 var cookPotBox = document.querySelector('.right-box');
 
 //Images
